@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Microsoft visual studio project\4.4\4.4\Source.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  4.4.vcxproj -> D:\Microsoft visual studio project\4.4\Debug\4.4.exe
